@@ -1,0 +1,5 @@
+name: EmberThorne
+version: 1.0
+author: DigitalSniperz
+depend: [EmberLib]
+main: com.emberthorne.game.Main

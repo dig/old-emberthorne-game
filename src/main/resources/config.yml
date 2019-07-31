@@ -1,0 +1,13 @@
+server: world1
+
+master:
+     ip: 158.00.00.00
+     port: 0000
+     udp: 5455
+     authkey: lol
+
+database:
+     ip: 0.0.0.0
+     port: 39985
+     username: 234
+     password: 23
